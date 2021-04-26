@@ -1,0 +1,46 @@
+.event{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+  
+ 
+}
+.win{
+    width:400px;
+    height:250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+    border-radius:30px;
+}
+
+.eve h2{
+    
+        text-align: center;
+        color: goldenrod;
+        font-family: 'Niconne', cursive;
+        padding: 20px;
+        position: relative;
+        top: 40px;
+        font-size: 40px;
+    
+}
+.even h3{
+    font-family: 'Niconne', cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+.even{
+    padding:0 20px;
+    
+
+}
+/*@media only screen and (min-width:950px){
+    .eve2{
+        padding:20px;
+    margin: 100px; 
+    }  
+}*/

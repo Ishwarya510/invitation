@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@100;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+.main{
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url("https://www.wonderwardrobes.com/wp-content/uploads/2015/11/Indian-Wedding-Couple.jpg");
+    min-width: 100%;
+    min-height: 100%;
+    position:absolute;
+    top: -20px;
+}
+.main2{
+    text-align: center;
+    padding-top:50px ;
+    margin-top: 150px;
+    color: white;
+}
+.main2 h1{
+    font-size: 80px;
+    line-height: -5px;
+    font-family: 'Niconne', cursive;
+    font-weight: bolder;
+   
+}
+.main2 h2{
+    position: relative;
+    font-size: 30px;
+    top: 50px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.main2 h3{
+    position: relative;
+    font-size: 25px;
+    top: -40px;
+    font-family: 'Poppins', sans-serif;
+}
+.main2 span{
+    color: goldenrod;
+}
+@media only screen and (max-width:800px){
+    
+}

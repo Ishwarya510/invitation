@@ -1,0 +1,25 @@
+.gallery img{
+   display: flex;
+   margin: 5px;
+   flex-wrap: wrap;
+   padding: 20px;
+}
+.g2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.home{
+    background-color: black;
+}
+.gal h2{
+    text-align: center;
+    color: goldenrod;
+    font-family: 'Lobster', cursive;
+    padding: 20px;
+    position: relative;
+    top: 40px;
+    font-size: 30px;
+}

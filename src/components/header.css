@@ -1,0 +1,42 @@
+nav{
+    flex: 1;
+    text-align: right;
+   
+}
+ul{
+    display: inline-block;
+    text-align: right;
+
+}
+ul li{
+    display: inline-block;
+    text-align: right;
+    margin-right: 40px;
+    color:white;
+}
+.home{
+    display: flex;
+   height: 55px;
+    position: fixed;
+    z-index: 1;
+    min-width: 100%;
+    top: 0;
+}
+.dinku{
+    position: relative;
+    top: -59px;
+    margin: 20px;
+    
+}
+
+.menu-icon{
+    margin-left: 20px;
+   position: relative;
+   right:10px ;
+   z-index: 1;
+   display: none;
+    cursor: pointer;
+    height: 30px;
+    padding: 5px;
+}
+
